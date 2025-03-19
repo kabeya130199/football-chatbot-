@@ -1,0 +1,11 @@
+.settings{
+    display: flex;
+    background-color: #eff2f6;
+    .settingContainer {
+        flex: 30;
+    }
+    .setting_content{
+        display: flex;
+    }
+
+}
